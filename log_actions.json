@@ -1,0 +1,112 @@
+{
+  "Improvements": {
+    "SpawnMineAbility": "Mine",
+    "SpawnPastureAbility": "Pasture",
+    "SpawnFishingHutAbility": "FishingHut",
+    "SpawnLumbermillAbility": "Lumbermill",
+    "SpawnWorkshopAbility": "Workshop",
+    "SpawnFortAbility": "Fort",
+    "SpawnBarracksAbility": "Barracks",
+    "SpawnRoadAbility": "Road",
+    "SpawnMonumentAbility": "Monument",
+    "SpawnFarmAbility": ["Farm", "Winery"]
+  },
+  "Buildings": {
+    "SpawnUniqueInCityAbility": [
+      "Library",
+      "University",
+      "Temple",
+      "Collosseum",
+      "Monastery",
+      "Market",
+      "Forge",
+      "Jeweler",
+      "Warehouse",
+      "Courthouse"
+    ],
+    "SpawnHarborAbility": "Harbor",
+    "SpawnGranaryAbility": "Granary"
+  },
+  "Wonders": {
+    "SpawnWonderAbility": [
+      "ArcDeTriomphe",
+      "ChichenItza",
+      "EastIndiaCompany",
+      "GreatLibrary",
+      "GreatWall",
+      "HagiaSophia",
+      "HangingGardens",
+      "HimejiCastle",
+      "DjenneMosque",
+      "NotreDame",
+      "Parthenon",
+      "Pyramids",
+      "StatueOfZeus",
+      "TempleOfDiana"
+    ],
+    "SpawnWonderOnCoastAbility": "GreatLighthouse"
+  },
+  "Units": {
+    "SpawnMilitaryAbility": [
+      "Archer",
+      "Axeman",
+      "Crossbowman",
+      "Horseman",
+      "Knight",
+      "Musketman",
+      "Spearman",
+      "Swordsman",
+      "Warrior"
+    ],
+    "SpawnEquipmentAbility": ["Cannon", "Catapult", "Warship"],
+    "SpawnSettlerAbility": "Settler",
+    "SpawnUnitOnCityAbility": "Scout"
+  },
+  "Abilities": { "UseAbilityCard": null },
+  "Technologies": {
+    "ResearchAbility": [
+      "AdvancedTactics",
+      "Agriculture",
+      "AnimalHusbandry",
+      "Architecture",
+      "Astronomy",
+      "Construction",
+      "Currency",
+      "Education",
+      "Engineering",
+      "Feudalism",
+      "Fishing",
+      "Gunpowder",
+      "HorsebackRiding",
+      "Logistics",
+      "Masonry",
+      "Mathematics",
+      "Metalworking",
+      "Mining",
+      "Mysticism",
+      "Philosophy",
+      "MilitaryTactics",
+      "Theology",
+      "Woodworking",
+      "Writing"
+    ]
+  },
+  "Civics": {
+    "ResearchAbility": [
+      "AgrarianSociety",
+      "HunterGatherers",
+      "Industrialism",
+      "GodKing",
+      "HereditaryRule",
+      "MilitaryDictatorship",
+      "Paganism",
+      "Secularism",
+      "StateReligion"
+    ]
+  },
+  "Deck": {
+    "DrawCardAbility": null,
+    "DestroyCardAbility": null,
+    "RedrawHandAbility": null
+  }
+}
